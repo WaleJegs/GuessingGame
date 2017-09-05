@@ -1,0 +1,105 @@
+    
+      body {
+      	text-align: center;
+      	margin: 0;
+      	font-family: 'Oswald', sans-serif;
+        background-image: url("matrix.jpg");
+        background-repeat: no-repeat;
+        background-size: 100%;
+      }	
+
+      .center {
+        text-align: center;
+      }
+      ul {
+          list-style: none;
+          padding: 0;
+      }
+      img {
+          display: inline;
+          width: 200px;
+          height: 100px;
+      }
+
+      #guesses {
+        margin: 25px;
+        margin-top: 50px;
+      }
+
+      .guess {
+        display: inline;
+        border-color: black;
+        border-width: 1px;
+        border-style: solid;  
+        padding: 28px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        background-color: white;
+        margin: 20px;
+        border-radius: 5px;
+        font-size: 150%;
+        width: 150%
+      }
+      #footer {
+          width: 100%;
+          border-top: solid 2px black;
+          background-color: white;
+          position: fixed;
+          bottom: 0;
+          font-family: 'Oswald', sans-serif;
+          letter-spacing: 5px;
+          font-weight: bold;  
+          padding-top: 5px;
+      }
+
+      #gt {
+        margin: .5%;
+        border-style: solid;
+        border-radius: 250px;
+        width: 150px;
+        font-size: 350%;
+        text-align: center;
+        margin-bottom: -50px;
+      }
+
+      #sub {
+        border-radius: 30px;
+        font-size: 65%;
+        width: 60px;
+        height: 60px;
+        text-align: center;
+        margin-right: -100px;
+        margin-top: -18px;
+      }
+
+      #app {
+        color: crimson;
+        font-size: 200%;
+        font-family: 'Oswald', sans-serif;
+        letter-spacing: 5px;
+      }
+
+      #mid_name {
+        width:  80%;
+        font-size:150%;
+      }
+
+      #glogo {
+        height: 80%;
+        margin: 20px;
+        margin-top: 10px
+      }
+
+      #ghlogo {
+        float:right;
+        height: 100%;
+        padding-bottom: 1%;
+      }
+
+      #fslogo {
+        float: left;
+      }
+
+      #pro {
+        font-size: 120%
+      }
